@@ -47,7 +47,7 @@ surf_the_glaoming_v2  DONE
 surf_toast_llf DONE 
 surf_torrent_v1b  DONE 
 surf_trance_v1	DONE 	
-surf_twilight_rc2
+surf_twilight_rc2 DONE 
 surf_utopia_v3  DONE 
 surf_venice_v2b  DONE fuck this map, 45 mins of rendering
 <<<<<<< HEAD
