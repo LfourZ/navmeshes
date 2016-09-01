@@ -1,17 +1,17 @@
 surf_abhorrance_v2
 surf_ag_texture_final
 surf__air_arena_v4			DONE
-surf__akai_f1n4l
+surf__akai_f1n4l			DONE
 surf_alpine_tf2
-surf_avatar_v2
+surf_avatar_v2				DONE
 surf_basewater_beta3
-surf_blackout_v2	
+surf_blackout_v2			DONE
 surf_bluetowers_v5f
-surf_buck-wildtf2
+surf_buck-wildtf2			DONE
 surf_codeportected_v2_fix
 surf_crazyfrog_reloaded			DONE
-surf_ctf_velocity_tf2_v1
-surf_effortless
+surf_ctf_velocity_tf2_v1		DONE
+surf_effortless	
 surf_entrance_v2
 surf_fastspiral_retro_tf2_fix
 surf_fizzyrave_reloaded
