@@ -44,9 +44,9 @@ surf_tensile DONE
 surf_tf_japan_v1  DONE 
 surf_tf_thriller_v2_fix  
 surf_the_glaoming_v2  DONE 
-surf_toast_llf
+surf_toast_llf DONE 
 surf_torrent_v1b  
-surf_trance_v1	DONE 			DONE
+surf_trance_v1	DONE 	
 surf_twilight_rc2
 surf_utopia_v3  DONE 
 surf_venice_v2b
