@@ -48,7 +48,7 @@ surf_toast_llf
 surf_torrent_v1b
 surf_trance_v1				DONE
 surf_twilight_rc2
-surf_utopia_v3
+surf_utopia_v3				DONE
 surf_venice_v2b
 surf_year3000				DONE
 surf_zaza				DONE
