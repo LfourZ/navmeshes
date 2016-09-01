@@ -24,7 +24,7 @@ surf_hang_time_reloaded_v2
 surf_halloween_v2h			DONE
 surf_horizon_v3				DONE
 surf_insanity_tf2
-surf_legendary_lite_fix_v3
+surf_legendary_lite_fix_v3		DONE
 surf_lullaby_redone_rc1
 surf_matrix_regress
 surf_meister_v3_final2
@@ -32,7 +32,7 @@ surf_minute_v1p
 surf_missing_no_fix
 surf_ny_exploder_prime			
 surf_oa_bigramp_b2			
-surf_overcast_v1			
+surf_overcast_v1				
 surf_overlook_v2
 surf_prelude_b3p
 surf_pulse_v2
@@ -51,4 +51,4 @@ surf_twilight_rc2
 surf_utopia_v3
 surf_venice_v2b
 surf_year3000
-surf_zaza
+surf_zaza				DONE
