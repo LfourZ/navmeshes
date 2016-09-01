@@ -15,7 +15,7 @@ surf_effortless				DONE
 surf_entrance_v2
 surf_fastspiral_retro_tf2_fix
 surf_fizzyrave_reloaded
-surf_frictional
+surf_frictional				DONE
 surf_fury_v6_clean
 surf_gforce
 surf_graphia
