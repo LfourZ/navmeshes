@@ -42,17 +42,17 @@ surf_rebel_redo_v2  DONE
 surf_snow_arena_v2 DONE
 surf_tensile DONE
 surf_tf_japan_v1  DONE 
-surf_tf_thriller_v2_fix
-surf_the_glaoming_v2
+surf_tf_thriller_v2_fix  
+surf_the_glaoming_v2  DONE 
 surf_toast_llf
-surf_torrent_v1b
-surf_trance_v1				DONE
+surf_torrent_v1b  
+surf_trance_v1	DONE 			DONE
 surf_twilight_rc2
-surf_utopia_v3
+surf_utopia_v3  DONE 
 surf_venice_v2b
 <<<<<<< HEAD
-surf_year3000
-surf_zaza
+surf_year3000  DONE  
+surf_zaza  DONE
 =======
 surf_year3000				DONE
 surf_zaza				DONE
