@@ -29,7 +29,7 @@ surf_lullaby_redone_rc1            DONE
 surf_matrix_regress              DONE
 surf_meister_v3_final2         DONE
 surf_minute_v1p          DONE
-surf_missing_no_fix
+surf_missing_no_fix       DONE
 surf_ny_exploder_prime
 surf_oa_bigramp_b2
 surf_overcast_v1
@@ -46,9 +46,14 @@ surf_tf_thriller_v2_fix
 surf_the_glaoming_v2
 surf_toast_llf
 surf_torrent_v1b
-surf_trance_v1
+surf_trance_v1				DONE
 surf_twilight_rc2
 surf_utopia_v3
 surf_venice_v2b
+<<<<<<< HEAD
 surf_year3000
 surf_zaza
+=======
+surf_year3000				DONE
+surf_zaza				DONE
+>>>>>>> origin/master
