@@ -30,7 +30,7 @@ surf_matrix_regress              DONE
 surf_meister_v3_final2         DONE
 surf_minute_v1p          DONE
 surf_missing_no_fix       DONE
-surf_ny_exploder_prime
+surf_ny_exploder_prime  DONE
 surf_oa_bigramp_b2
 surf_overcast_v1
 surf_overlook_v2
