@@ -1,6 +1,6 @@
-How to create nav meshes:
+how to create nav meshes:
 
-bind <key> nav_mark_walkable
+bind "key" nav_mark_walkable
 
 this, when pressed, will mark a surface as walkable. It will start at the point that
 you were looking at when you used the command, and go outwards for a default of 1000
