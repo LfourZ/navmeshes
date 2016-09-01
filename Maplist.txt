@@ -41,7 +41,7 @@ surf_reanimation_v1 DONE
 surf_rebel_redo_v2  DONE
 surf_snow_arena_v2 DONE
 surf_tensile DONE
-surf_tf_japan_v1
+surf_tf_japan_v1  DONE 
 surf_tf_thriller_v2_fix
 surf_the_glaoming_v2
 surf_toast_llf
