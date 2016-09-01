@@ -38,7 +38,7 @@ surf_prelude_b3p  DONE
 surf_pulse_v2   DONE
 surf_rainbow_v1  DONE
 surf_reanimation_v1 DONE
-surf_rebel_redo_v2
+surf_rebel_redo_v2  DONE
 surf_snow_arena_v2
 surf_tensile
 surf_tf_japan_v1
