@@ -21,7 +21,7 @@ surf_gforce
 surf_graphia
 surf_greatfissure
 surf_hang_time_reloaded_v2
-surf_halloween_v2h
+surf_halloween_v2h			DONE
 surf_horizon_v3				DONE
 surf_insanity_tf2
 surf_legendary_lite_fix_v3
