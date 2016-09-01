@@ -9,7 +9,7 @@ surf_blackout_v2
 surf_bluetowers_v5f
 surf_buck-wildtf2
 surf_codeportected_v2_fix
-surf_crazyfrog_reloaded		
+surf_crazyfrog_reloaded			DONE
 surf_ctf_velocity_tf2_v1
 surf_effortless
 surf_entrance_v2
