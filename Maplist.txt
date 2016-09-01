@@ -11,7 +11,7 @@ surf_buck-wildtf2			DONE
 surf_codeportected_v2_fix
 surf_crazyfrog_reloaded			DONE
 surf_ctf_velocity_tf2_v1		DONE
-surf_effortless	
+surf_effortless				DONE
 surf_entrance_v2
 surf_fastspiral_retro_tf2_fix
 surf_fizzyrave_reloaded
