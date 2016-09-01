@@ -1,4 +1,4 @@
-surf_abhorrance_v2
+surf_abhorrance_v2 DONE 
 surf_ag_texture_final
 surf__air_arena_v4			DONE
 surf__akai_f1n4l			DONE
@@ -45,7 +45,7 @@ surf_tf_japan_v1  DONE
 surf_tf_thriller_v2_fix  DONE
 surf_the_glaoming_v2  DONE 
 surf_toast_llf DONE 
-surf_torrent_v1b  
+surf_torrent_v1b  DONE 
 surf_trance_v1	DONE 	
 surf_twilight_rc2
 surf_utopia_v3  DONE 
