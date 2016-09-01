@@ -35,7 +35,7 @@ surf_oa_bigramp_b2  DONE
 surf_overcast_v1  DONE 
 surf_overlook_v2  DONE
 surf_prelude_b3p  DONE 
-surf_pulse_v2
+surf_pulse_v2   DONE
 surf_rainbow_v1
 surf_reanimation_v1
 surf_rebel_redo_v2
