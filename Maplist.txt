@@ -27,8 +27,8 @@ surf_insanity_tf2
 surf_legendary_lite_fix_v3        DONE
 surf_lullaby_redone_rc1            DONE
 surf_matrix_regress              DONE
-surf_meister_v3_final2
-surf_minute_v1p
+surf_meister_v3_final2         DONE
+surf_minute_v1p          DONE
 surf_missing_no_fix
 surf_ny_exploder_prime
 surf_oa_bigramp_b2
