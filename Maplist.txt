@@ -25,8 +25,8 @@ surf_halloween_v2h			DONE
 surf_horizon_v3				DONE
 surf_insanity_tf2
 surf_legendary_lite_fix_v3        DONE
-surf_lullaby_redone_rc1
-surf_matrix_regress
+surf_lullaby_redone_rc1            DONE
+surf_matrix_regress              DONE
 surf_meister_v3_final2
 surf_minute_v1p
 surf_missing_no_fix
