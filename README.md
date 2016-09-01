@@ -17,3 +17,5 @@ you have, the longer your computer will be frozen.
 
 this also means that your computer has a higher chance of crashing during this
 time, in which case you can lose your progress so far
+
+you might also want to use host_timescale 3 or something similar to speed up movement
