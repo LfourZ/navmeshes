@@ -17,12 +17,12 @@ surf_ctf_velocity_tf2_v1		DONE	ANALYZED
 surf_fury_v6_clean			DONE	ANALYZED
 surf_effortless				DONE	ANALYZED
 surf_gforce				DONE	ANALYZED
-surf_entrance_v2			DONE
-surf_graphia				DONE
-surf_greatfissure			DONE
-surf_hang_time_reloaded_v2		DONE
-surf_halloween_v2b			DONE
-surf_horizon_v3				DONE
+surf_entrance_v2			DONE	ANALYZED
+surf_graphia				DONE	ANALYZED
+surf_greatfissure			DONE	ANALYZED
+surf_hang_time_reloaded_v2		DONE	ANALYZED
+surf_halloween_v2b			DONE	ANALYZED
+surf_horizon_v3				DONE	ANALYZED
 surf_lullaby_redone_rc1			DONE
 surf_insanity_tf2			DONE
 surf_matrix_regress			DONE
