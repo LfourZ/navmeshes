@@ -6,16 +6,16 @@ surf_ag_texture_final			DONE	ANALYZED
 surf_basewar_beta3			DONE	ANALYZED
 surf_air_arena_v4			DONE	ANALYZED
 surf_blackout_v_2			DONE	ANALYZED
-surf_bluetowers_v5f			DONE
-surf_buck-wild_tf2			DONE
-surf_fastspiral_retro_tf2_fix		DONE
-surf_codeprotected_v2_fix		DONE
-surf_fizzycave_reloaded			DONE
-surf_crzyfrog_reloaded			DONE
-surf_frictional				DONE
-surf_ctf_velocity_tf2_v1		DONE
-surf_fury_v6_clean			DONE
-surf_effortless				DONE
+surf_bluetowers_v5f			DONE	ANALYZED
+surf_buck-wild _tf2			DONE	ANALYZED
+surf_fastspiral_retro_tf2_fix		DONE	ANALYZED
+surf_codeprotected_v2_fix		DONE	ANALYZED
+surf_fizzycave_reloaded			DONE	ANALYZED
+surf_crzyfrog_reloaded			DONE	ANALYZED
+surf_frictional				DONE	ANALYZED
+surf_ctf_velocity_tf2_v1		DONE	ANALYZED
+surf_fury_v6_clean			DONE	ANALYZED
+surf_effortless				DONE	ANALYZED
 surf_gforce				DONE
 surf_entrance_v2			DONE
 surf_graphia				DONE
