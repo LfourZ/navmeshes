@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 surf_akai_f1n4l				DONE	ANALYZED
 surf_alpine_tf2				DONE	ANALYZED
+=======
+surf_akai_f1n4l				DONE	
+surf_alpine_tf2				DONE
+>>>>>>> origin/master
 surf_abhorrence_v2			DONE
 surf_avatar_v2				DONE	ANALYZED
 surf_ag_texture_final			DONE	ANALYZED
@@ -7,8 +12,8 @@ surf_basewar_beta3			DONE	ANALYZED
 surf_air_arena_v4			DONE
 surf_blackout_v_2			DONE
 surf_bluetowers_v5f			DONE
-surf_buck-wild_tf2			DONE
-surf_fastspiral_retro_tf2_fix		DONE
+surf_buck-wild_tf2			DONE - ANALYZED
+surf_fastspiral_retro_tf2_fix		DONE - ANALYZED
 surf_codeprotected_v2_fix		DONE
 surf_fizzycave_reloaded			DONE
 surf_crzyfrog_reloaded			DONE
@@ -22,8 +27,8 @@ surf_graphia				DONE
 surf_greatfissure			DONE
 surf_hang_time_reloaded_v2		DONE
 surf_halloween_v2b			DONE
-surf_horizon_v3				DONE
-surf_lullaby_redone_rc1			DONE
+surf_horizon_v3				DONE	
+surf_lullaby_redone_rc1			
 surf_insanity_tf2			DONE
 surf_matrix_regress			DONE
 surf_legendary_lite_fix_v3		DONE
