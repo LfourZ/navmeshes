@@ -1,6 +1,6 @@
 surf_akai_f1n4l				DONE	
 surf_alpine_tf2				DONE
-surf_abhorrence_v2			DONE
+surf_abhorrence_v2			DONE - ANALYZED
 surf_avatar_v2				DONE
 surf_ag_texture_final			DONE
 surf_basewar_beta3			DONE
@@ -9,7 +9,7 @@ surf_blackout_v_2			DONE
 surf_bluetowers_v5f			DONE
 surf_buck-wild_tf2			DONE - ANALYZED
 surf_fastspiral_retro_tf2_fix		DONE - ANALYZED
-surf_codeprotected_v2_fix		DONE
+surf_codeprotected_v2_fix		DONE 
 surf_fizzycave_reloaded			DONE
 surf_crzyfrog_reloaded			DONE
 surf_frictional				DONE
