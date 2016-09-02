@@ -1,9 +1,9 @@
-surf_akai_f1n4l				DONE
-surf_alpine_tf2				DONE
+surf_akai_f1n4l				DONE	ANALYZED
+surf_alpine_tf2				DONE	ANALYZED
 surf_abhorrence_v2			DONE
-surf_avatar_v2				DONE
-surf_ag_texture_final			DONE
-surf_basewar_beta3			DONE
+surf_avatar_v2				DONE	ANALYZED
+surf_ag_texture_final			DONE	ANALYZED
+surf_basewar_beta3			DONE	ANALYZED
 surf_air_arena_v4			DONE
 surf_blackout_v_2			DONE
 surf_bluetowers_v5f			DONE
@@ -33,7 +33,7 @@ surf_overlook_v2			DONE
 surf_missing_no_fix			DONE
 surf_prelude_b3p			DONE
 surf_ny_exploder_prime			DONE
-surf_pulse_v2				DONE
+surf_pulse_v2				DONE	ANALYZED
 surf_oa_bigramp_b2			DONE
 surf_rainbow_v1				DONE
 surf_overcast_v1			DONE
