@@ -1,6 +1,6 @@
 surf_akai_f1n4l				DONE	ANALYZED
 surf_alpine_tf2				DONE	ANALYZED
-surf_abhorrence_v2			DONE
+surf_abhorrence_v2			DONE	ANALYZED
 surf_avatar_v2				DONE	ANALYZED
 surf_ag_texture_final			DONE	ANALYZED
 surf_basewar_beta3			DONE	ANALYZED
@@ -23,16 +23,16 @@ surf_greatfissure			DONE	ANALYZED
 surf_hang_time_reloaded_v2		DONE	ANALYZED
 surf_halloween_v2b			DONE	ANALYZED
 surf_horizon_v3				DONE	ANALYZED
-surf_lullaby_redone_rc1			DONE
-surf_insanity_tf2			DONE
-surf_matrix_regress			DONE
-surf_legendary_lite_fix_v3		DONE
-surf_meister_v3_final2			DONE
-surf_minuet_v1p				DONE
-surf_overlook_v2			DONE
-surf_missing_no_fix			DONE
-surf_prelude_b3p			DONE
-surf_ny_exploder_prime			DONE
+surf_lullaby_redone_rc1			DONE	ANALYZED
+surf_insanity_tf2			DONE	ANALYZED
+surf_matrix_regress			DONE	ANALYZED
+surf_legendary_lite_fix_v3		DONE	ANALYZED
+surf_meister_v3_final2			DONE	ANALYZED
+surf_minuet_v1p				DONE	ANALYZED
+surf_overlook_v2			DONE	ANALYZED
+surf_missing_no_fix			DONE	ANALYZED
+surf_prelude_b3p			DONE	ANALYZED
+surf_ny_exploder_prime			DONE	ANALYZED
 surf_pulse_v2				DONE	ANALYZED
 surf_oa_bigramp_b2			DONE
 surf_rainbow_v1				DONE
@@ -50,6 +50,6 @@ surf_trance_v1				DONE
 surf_utopia_v3				DONE
 surf_twilight_rc2			DONE
 surf_venice_v2b				DONE
-surf_year3000				DONE
-surf_zaza				DONE
+surf_year3000				DONE	ANALYZED
+surf_zaza				DONE	ANALYZED
 >>>>>>> origin/master
