@@ -34,14 +34,14 @@ surf_missing_no_fix			DONE	ANALYZED
 surf_prelude_b3p			DONE	ANALYZED
 surf_ny_exploder_prime			DONE	ANALYZED
 surf_pulse_v2				DONE	ANALYZED
-surf_oa_bigramp_b2			DONE
-surf_rainbow_v1				DONE
-surf_overcast_v1			DONE
-surf_reanimation_v1			DONE
-surf_rebel_redo_v2			DONE
-surf_tf_thriller_v2_fix			DONE
-surf_snow_arena_v2			DONE
-surf_the_gloaming_v2			DONE
+surf_oa_bigramp_b2			DONE	ANALYZED
+surf_rainbow_v1				DONE	ANALYZED
+surf_overcast_v1			DONE	ANALYZED
+surf_reanimation_v1			DONE	ANALYZED
+surf_rebel_redo_v2			DONE	ANALYZED
+surf_tf_thriller_v2_fix			DONE	ANALYZED
+surf_snow_arena_v2			DONE	ANALYZED
+surf_the_gloaming_v2			DONE	ANALYZED
 surf_tensile				DONE
 surf_toast_llf				DONE
 surf_tf_japan_v1			DONE
