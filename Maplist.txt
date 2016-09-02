@@ -42,14 +42,14 @@ surf_rebel_redo_v2			DONE	ANALYZED
 surf_tf_thriller_v2_fix			DONE	ANALYZED
 surf_snow_arena_v2			DONE	ANALYZED
 surf_the_gloaming_v2			DONE	ANALYZED
-surf_tensile				DONE
-surf_toast_llf				DONE
-surf_tf_japan_v1			DONE
-surf_torrent_v1b			DONE
-surf_trance_v1				DONE
-surf_utopia_v3				DONE
-surf_twilight_rc2			DONE
-surf_venice_v2b				DONE
+surf_tensile				DONE	ANALYZED
+surf_toast_llf				DONE	ANALYZED
+surf_tf_japan_v1			DONE	ANALYZED
+surf_torrent_v1b			DONE	ANALYZED
+surf_trance_v1				DONE	ANALYZED
+surf_utopia_v3				DONE	ANALYZED
+surf_twilight_rc2			DONE	ANALYZED
+surf_venice_v2b				DONE	ANALYZED
 surf_year3000				DONE	ANALYZED
 surf_zaza				DONE	ANALYZED
 >>>>>>> origin/master
